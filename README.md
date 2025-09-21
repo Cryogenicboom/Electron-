@@ -4,15 +4,15 @@ Hey, this is my new game concept where i have re-defined the **flappy bird** gam
 <br>
 Game goes like this: 
 <br> 
-1. **Electron**: emits from particle accelarator, the electron is controlled by the player, it's x-movement is proportional to time of game, letting player only control the y-movements of it. Electron carries a **-q** charge, and it is attracted by other atoms/molecules/orbitals. 
+1. **Electron** : emits from particle accelarator, the electron is controlled by the player, it's x-movement is proportional to time of game, letting player only control the y-movements of it. Electron carries a **-q** charge, and it is attracted by other atoms/molecules/orbitals. 
 <br>
 2. **Atoms** : atoms attract electron, if they collides GAME OVER. Each atoms has it's own force of attraction, more the atomic number more the force of attraction. Radioactive elements are more powerful. An event of X-RAY also happens.
 <br>
-3. **Gold Foil** : a fun element in our game. You know Rutherford's experiment?, if no, then in his experiment he uses a very thing gold foil sheet and bombards it with alpha partciles. But why he did that? he did that to observe the atom's structure, and he observed that most of the atom is empty since the gold foil let pass most of the particles pass through it. BUT! BUT! some particles got delflected by 60 degrees or completely 180 degrees. now this concept can be used to delfect our electron.
+3. __Gold Foil__ : a fun element in our game. You know Rutherford's experiment?, if no, then in his experiment he uses a very thing gold foil sheet and bombards it with alpha partciles. But why he did that? he did that to observe the atom's structure, and he observed that most of the atom is empty since the gold foil let pass most of the particles pass through it. BUT! BUT! some particles got delflected by 60 degrees or completely 180 degrees. now this concept can be used to delfect our electron.
 <br>
-4. **EM WAVES** : Electro-magnetic waves, these can be used to slow down or speed up the electron, Electric waves can alter the speed of electron, depending on it's direction. and magnetic wave can alter the direction on it. 
+4. __EM WAVES__ : Electro-magnetic waves, these can be used to slow down or speed up the electron, Electric waves can alter the speed of electron, depending on it's direction. and magnetic wave can alter the direction on it. 
 <br>
-5. **SPDF ORBITALS** : these are cloud orbitals which are desgined on the concept of porbabilities.
+5. __SPDF Orbitals__ : these are cloud orbitals which are desgined on the concept of porbabilities.
 <br>
     <img width="1915" height="1591" alt="image" src="https://github.com/user-attachments/assets/09534372-ecbf-4680-9285-3c92a862f0de" />
 <br>
