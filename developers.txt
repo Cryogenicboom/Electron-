@@ -1,0 +1,45 @@
+Electron Movement
+
+Only along Y-axis (up and down). X-position is mostly fixed (say x = 100px from left).
+
+Movement controlled by UP and DOWN keys.
+
+Obstacles (Atoms & Waves)
+
+All obstacles spawn at the right side of the screen (x = 1280) and move left.
+
+Speed increases gradually as the game progresses (maybe based on time survived or score).
+
+Each obstacle can have unique behaviors:
+
+Gold foil: deflects electron randomly
+
+Electric wave: moves in a sine/cosine pattern vertically
+
+Magnetic wave: slows electron movement temporarily
+
+Heavy atoms (U, Pu): take longer to pass, test reflex
+
+Optionally: chain obstacles for reflex tests (like you said: gold foil + atom right after).
+
+Scoring
+
+Simply time survived in seconds: score = current_time - start_time.
+
+We can increase difficulty as score increases.
+
+Collision Detection
+
+If electron collides with an obstacle → game over.
+
+Use pygame.Rect for collision simplicity.
+
+Difficulty & Reflex Mechanics
+
+Randomly spawn obstacles with patterns:
+
+Gold foil → immediately followed by another atom/wave
+
+Waves oscillate → electron must time movement
+
+This will make the player constantly react rather than just dodge slowly.
