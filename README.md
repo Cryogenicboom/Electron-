@@ -21,3 +21,6 @@ Game goes like this:
 Your contribution would be highly appreciated for making this project alove. I have added a demo version of this Game so that you can easily understand the gameplay.
 <br>
 Run **"main.py"** by terminal using this command: **python -m files.main**
+<br>
+<img width="297" height="526" alt="image" src="https://github.com/user-attachments/assets/900db2f5-c618-49e4-ad3a-831a9a955e67" />
+
